@@ -1,2 +1,3 @@
 trojan://33afb18f@www.dengyongcun.xyz:443
 trojan://18bdd125@www.dengyongcun008.xyz:443
+vmess1://ca7236d6-9893-4802-833f-1cb50e17c1f1@www.dyc794768286.xyz:443/296208f1/?network=ws&ws.host=www.dyc794768286.xyz&tls=true
